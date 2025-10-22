@@ -1,16 +1,25 @@
-## Hi there 👋
+# 亿码酷站 - YMKUZHAN
 
-<!--
-**YMKUZHAN/YMKUZHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![亿码酷站 Logo](https://ymwebsource.oss-cn-chengdu.aliyuncs.com/img/logo.png)
 
-Here are some ideas to get you started:
+**官网**: [https://www.ymkuzhan.com](https://www.ymkuzhan.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**简介**:  
+亿码酷站是一个优秀的PHP源码下载平台，汇集网站源码、商城源码、小程序源码、视频直播源码、区块链源码等优质资源，支持免费与会员源码下载，内容持续更新，助你快速获取所需网站模板与程序源码。
+
+---
+
+## 核心服务
+
+- 网站源码 & CMS 模板  
+- 商城与微商城系统  
+- 小程序源码合集  
+- 视频直播平台源码  
+- 区块链示例与智能合约  
+- 工具类、社交平台、影视网站
+
+---
+
+**联系与关注**:  
+- Email: ymkuzhan@126.com 
+- 网站: [https://www.ymkuzhan.com](https://www.ymkuzhan.com)
